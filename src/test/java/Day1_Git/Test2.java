@@ -5,7 +5,7 @@ public class Test2 {
 
         System.out.println("İkinci Git Class'ı");
         System.out.println("salih abi, salih abi, salih abi");
-        int fenerbahce = 1;
+        int fenerbahce = 2;
         int besiktas = 4;
         int skor;
         System.out.println("fenerbahçe " + fenerbahce + " - " + besiktas + " beşiktaş");
