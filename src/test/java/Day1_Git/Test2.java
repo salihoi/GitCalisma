@@ -5,6 +5,10 @@ public class Test2 {
 
         System.out.println("İkinci Git Class'ı");
         System.out.println("salih abi, salih abi, salih abi");
+        int fenerbahce = 1;
+        int besiktas = 0;
+        int skor;
+        System.out.println("fenerbahçe " + fenerbahce + " - " + besiktas + " beşiktaş");
 
     }
 }
